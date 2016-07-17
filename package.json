@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-nicestyle",
+  "version": "1.0.0",
+  "description": "Eslint config for ES6 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "nicestyle",
+    "es6",
+    "javascript"
+  ],
+  "author": "Ffloriel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ffloriel/eslint-config-nicestyle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ffloriel/eslint-config-nicestyle/issues"
+  },
+  "homepage": "https://github.com/Ffloriel/eslint-config-nicestyle#readme"
+}
